@@ -24,7 +24,7 @@ This project analyzes **Blinkit’s sales data** to explore performance trends, 
 * **Trend Analysis:** Outlet establishment growth across years.
 * **Interactive Filters:** For outlet size, location, and item type to explore data dynamically.
 
-![Dashboard Screenshot](blinkit%20dashboard.png)
+(blinkit%20dashboard.png)
 
 ---
 
