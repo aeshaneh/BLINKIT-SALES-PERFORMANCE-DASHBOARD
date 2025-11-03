@@ -1,8 +1,4 @@
-# BLINKIT-SALES-PERFORMANCE-DASHBOARD
-I recently worked on a project based on the Blinkit Sales Performance Dashboard, where I performed data cleaning, find and replace operations, and analyzed sales data to identify key insights and trends. This project helped me improve my Excel skills and understand data-driven decision-making.
-Here’s a **GitHub-style README** for your **Blinkit Sales Performance Dashboard**, written in the same clean and structured format as your Shopify example 👇
 
----
 
 # 🛒 Blinkit Sales Performance Dashboard
 
