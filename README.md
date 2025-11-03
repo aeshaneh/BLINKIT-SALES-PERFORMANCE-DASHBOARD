@@ -23,7 +23,7 @@ This project analyzes **Blinkit’s sales data** to explore performance trends, 
 * **Fat Content Breakdown:** Comparison of Low Fat vs. Regular product performance.
 * **Trend Analysis:** Outlet establishment growth across years.
 * **Interactive Filters:** For outlet size, location, and item type to explore data dynamically
-https://chatgpt.com/backend-api/estuary/content?id=file_00000000b8cc71fa8b82c2baba90d594&ts=489487&p=fs&cid=1&sig=14895ca7378ad819915562653cfc926dbc19b0e83cc71cb07114357b3fbc28c8&v=0
+<img width="1217" height="652" alt="blinkit dashboard" src="https://github.com/user-attachments/assets/fc0b9178-5e54-4faf-b191-3265982c783e" />
 
 ---
 
